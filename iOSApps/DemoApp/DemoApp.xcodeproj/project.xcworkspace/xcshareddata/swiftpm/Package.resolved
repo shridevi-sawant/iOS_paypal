@@ -1,0 +1,15 @@
+{
+  "originHash" : "55cb673bcdef509945f9d8bdc8981098cf1887fb4235c9f0ef5515ec1abbde7c",
+  "pins" : [
+    {
+      "identity" : "mylocationlibrary",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/shridevi-sawant/MyLocationLibrary.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "1cd9e06a054b8d899b178a1ce1340dadddd68e87"
+      }
+    }
+  ],
+  "version" : 3
+}
